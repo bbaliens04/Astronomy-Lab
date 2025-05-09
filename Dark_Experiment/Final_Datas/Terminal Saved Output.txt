@@ -1,0 +1,108 @@
+Last login: Thu Mar 14 15:11:31 on ttys000
+bardiya@Bardias-macbook-pro-2 ~ % python3 Dark.py
+/Applications/Xcode.app/Contents/Developer/usr/bin/python3: can't open file '/Users/bardiya/Dark.py': [Errno 2] No such file or directory
+bardiya@Bardias-macbook-pro-2 ~ % cd Desktop/Astronomy_lab/Dark_Experiment
+bardiya@Bardias-macbook-pro-2 Dark_Experiment % python3 Dark.py
+Progress: 8.09%
+Progress: 16.18%
+Progress: 24.27%
+Progress: 32.36%
+Progress: 40.45%
+Progress: 48.539%
+Progress: 56.629%
+Progress: 64.719%
+Progress: 72.809%
+Progress: 80.899%
+Progress: 88.989%
+Progress: 97.079%
+Progress: 8.09%
+Progress: 16.18%
+Progress: 24.27%
+Progress: 32.36%
+Progress: 40.45%
+Progress: 48.539%
+Progress: 56.629%
+Progress: 64.719%
+Progress: 72.809%
+Progress: 80.899%
+Progress: 88.989%
+Progress: 97.079%
+Progress: 8.09%
+Progress: 16.18%
+Progress: 24.27%
+Progress: 32.36%
+Progress: 40.45%
+Progress: 48.539%
+Progress: 56.629%
+Progress: 64.719%
+Progress: 72.809%
+Progress: 80.899%
+Progress: 88.989%
+Progress: 97.079%
+Progress: 8.09%
+Progress: 16.18%
+Progress: 24.27%
+Progress: 32.36%
+Progress: 40.45%
+Progress: 48.539%
+Progress: 56.629%
+Progress: 64.719%
+Progress: 72.809%
+Progress: 80.899%
+Progress: 88.989%
+Progress: 97.079%
+Progress: 8.09%
+Progress: 16.18%
+Progress: 24.27%
+Progress: 32.36%
+Progress: 40.45%
+Progress: 48.539%
+Progress: 56.629%
+Progress: 64.719%
+Progress: 72.809%
+Progress: 80.899%
+Progress: 88.989%
+Progress: 97.079%
+Progress: 8.09%
+Progress: 16.18%
+Progress: 24.27%
+Progress: 32.36%
+Progress: 40.45%
+Progress: 48.539%
+Progress: 56.629%
+Progress: 64.719%
+Progress: 72.809%
+Progress: 80.899%
+Progress: 88.989%
+Progress: 97.079%
+Progress: 8.09%
+Progress: 16.18%
+Progress: 24.27%
+Progress: 32.36%
+Progress: 40.45%
+Progress: 48.539%
+Progress: 56.629%
+Progress: 64.719%
+Progress: 72.809%
+Progress: 80.899%
+Progress: 88.989%
+Progress: 97.079%
+Total count of 1/4000sec is: 1166234.0
+Total count of 1/1000sec is: 844119.0
+Total count of 1/100sec is: 745939.0
+Total count of 1/10sec is: 1039218.0
+Total count of 1sec is: 537040.0
+Total count of 10sec is: 10214.0
+Total count of 30sec is: 53634.0
+Mean count in every pixel of 1/4000sec image is: 0.09434725768298563 count per pixel.
+Mean count in every pixel of 1/1000sec image is: 0.06828845052374065 count per pixel.
+Mean count in every pixel of 1/100sec image is: 0.06034577884780294 count per pixel.
+Mean count in every pixel of 1/10sec image is: 0.0840717801357163 count per pixel.
+Mean count in every pixel of 1sec image is: 0.043446041931611154 count per pixel.
+Mean count in every pixel of 10sec image is: 0.0008263032032799723 count per pixel.
+Mean count in every pixel of 30sec image is: 0.004338941257560019 count per pixel.
+Linear Regression Fit: y = -30885.53x + 809448.70
+R-squared: 0.5847
+Slope standard error: 11641.3571
+Intercept standard error: 139211.0862
+
